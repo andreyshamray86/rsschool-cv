@@ -64,3 +64,18 @@ _September 2004 - June 2010_
 - Travelling
 - Music
 - Sport
+
+---
+
+#### Code example
+
+```
+String.prototype.toJadenCase = function () {
+  const newarr = this.split(' ').map(word => {
+        return word.charAt(0).toUpperCase() + word.substring(1)
+    })
+    return newarr.join(' ');
+};
+```
+
+---
