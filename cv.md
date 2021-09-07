@@ -79,3 +79,9 @@ String.prototype.toJadenCase = function () {
 ```
 
 ---
+
+#### Tests
+
+![html and css test](/images/html-css.jpg)
+![js core test](/images/js-core.jpg)
+![react test](/images/react.jpg)
