@@ -36,3 +36,17 @@ Organized, highly self-motivated frontend developer with proven ability to learn
 - Java (basics)
 
 ---
+
+### Education
+
+Doctor of Medicine, I.M.Sechenov Moscow Medical Academy, Moscow
+_September 2004 - June 2010_
+
+---
+
+### Employment History
+
+- Non-commercial web development, self-studying frontend technologies
+  _June 2020 - now_
+- Medical experience as a doctor in internal diseases
+  _October 2011 - January 2021_
