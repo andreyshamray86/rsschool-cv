@@ -46,7 +46,21 @@ _September 2004 - June 2010_
 
 ### Employment History
 
-- Non-commercial web development, self-studying frontend technologies
-  _June 2020 - now_
-- Medical experience as a doctor in internal diseases
-  _October 2011 - January 2021_
+- Non-commercial web development, self-studying frontend technologies _June 2020 - now_
+- Medical experience as a doctor in internal diseases _October 2011 - January 2021_
+
+---
+
+### Languages
+
+- Russian - Native
+- English - B1 (test passed on 07.09.2021 - EPAM Training Center)
+- German - Telc B2
+
+---
+
+### Hobbies
+
+- Travelling
+- Music
+- Sport
